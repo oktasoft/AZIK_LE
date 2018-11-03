@@ -252,8 +252,6 @@ kyu	きゅ
 kyw	きぇい
 kyz	きゃん
 kz	かん
-l:	：
-l;	；
 la	ぁ
 le	ぇ
 li	ぃ
@@ -570,8 +568,14 @@ wsi	ゐ
 wso	うぉ
 ww	うぇい
 wz	わん
-x:	：
 x;	；
+x:	：
+x[	［
+x]	］
+x,	，
+x.	．
+x/	／
+x\	＼
 xa	しゃ
 xd	しぇん
 xe	しぇ
