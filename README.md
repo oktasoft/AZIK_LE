@@ -72,18 +72,14 @@ dcu どぅ
 これに倣い、以下の定義を加えます。
 ~~~~
 tgy てゅ
-tgh てゅー
-tgj てぃー
+tgh とぅー
+tgj とぅん
 tgk てぃん
-tgp とぅー
-tgl とぅん
 
 dcy でゅ
-dch でゅー
-dcj でぃー
+dch どぅー
+dcj どぅん
 dck でぃん
-dcp どぅー
-dcl どぅん
 ~~~~
 ### 「つぁ行」
 ts\*（つぁ行）を加えます。
